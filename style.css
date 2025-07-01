@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+header, main, footer {
+    padding: 0 10px;
+}
+
+footer {
+    background-color: lightgray;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
